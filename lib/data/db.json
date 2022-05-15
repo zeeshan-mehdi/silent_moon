@@ -1,0 +1,45 @@
+
+
+{
+  "albums": [
+    {
+      "title": "Clear mind",
+      "subtitle": "Instrumental",
+      "imgUrl": "https://ibb.co/zbsPkXV"
+    },
+    {
+      "title": "Urban mood",
+      "subtitle": "Hip hop",
+      "imgUrl": "https://ibb.co/bJjgkJP"
+    },
+    {
+      "title": "Country hit",
+      "subtitle": "Rock and roll",
+      "imgUrl": "https://ibb.co/QXCMY9G"
+    }
+  ],
+
+  "recommendations" : [
+    {
+      "title": "Sacrifice",
+      "subtitle": "The Weeknd",
+      "imgUrl": "https://ibb.co/TkXZfCv"
+    },
+    {
+      "title": "Peru",
+      "subtitle": "Fireboy DML ft Ed sheeran",
+      "imgUrl": "https://ibb.co/fN712zp"
+    },
+    {
+      "title": "Love again",
+      "subtitle": "Dua Lipa",
+      "imgUrl": "https://ibb.co/NpdV06S"
+    },
+    {
+      "title": "Happier than Ever",
+      "subtitle": "Billie Eilish",
+      "imgUrl": "https://ibb.co/j3zkS8w"
+    }
+  ]
+
+}
